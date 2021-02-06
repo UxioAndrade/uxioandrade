@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxioandrade&layout=compact&hide=html" alt="uxioandrade" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=uxioandrade&show_icons=true" alt="uxioandrade" />
+[![Uxío's GitHub stats](https://github-readme-stats.vercel.app/api?username=UxioAndrade&theme=algolia)](https://github.com/UxioAndrade/uxioandrade)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uxioandrade&theme=algolia&layout=compact&hide=html" alt="uxioandrade" />
+
